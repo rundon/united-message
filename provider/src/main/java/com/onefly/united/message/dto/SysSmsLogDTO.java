@@ -11,7 +11,7 @@ import java.util.Date;
 /**
  * 短信日志
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark Rundon
  */
 @Data
 @ApiModel(value = "短信日志")

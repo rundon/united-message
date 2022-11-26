@@ -1,17 +1,9 @@
-/**
- * Copyright (c) 2016-2020 人人开源 All rights reserved.
- * <p>
- * https://www.renren.io
- * <p>
- * 版权所有，侵权必究！
- */
-
 package com.onefly.united.notice.enums;
 
 /**
  * 接受者类型枚举
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark Rundon
  */
 public enum ReceiverTypeEnum {
     /**

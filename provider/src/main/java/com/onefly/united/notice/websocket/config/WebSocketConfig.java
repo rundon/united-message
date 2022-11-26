@@ -1,11 +1,3 @@
-/**
- * Copyright (c) 2016-2020 人人开源 All rights reserved.
- * <p>
- * https://www.renren.io
- * <p>
- * 版权所有，侵权必究！
- */
-
 package com.onefly.united.notice.websocket.config;
 
 import com.onefly.united.common.constant.Constant;
@@ -25,7 +17,7 @@ import javax.websocket.server.ServerEndpointConfig.Configurator;
 /**
  * WebSocket配置
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark Rundon
  */
 @Configuration
 public class WebSocketConfig extends Configurator {

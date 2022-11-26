@@ -20,7 +20,7 @@ import java.util.Map;
 /**
  * 短信日志
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark Rundon
  */
 @RestController
 @RequestMapping("/api/message/smslog")

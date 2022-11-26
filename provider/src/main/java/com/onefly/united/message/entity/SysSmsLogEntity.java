@@ -1,11 +1,3 @@
-/**
- * Copyright (c) 2018 人人开源 All rights reserved.
- *
- * https://www.renren.io
- *
- * 版权所有，侵权必究！
- */
-
 package com.onefly.united.message.entity;
 
 import com.baomidou.mybatisplus.annotation.TableField;
@@ -17,7 +9,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 短信日志
  * 
- * @author Mark sunlightcs@gmail.com
+ * @author Mark Rundon
  */
 @Data
 @EqualsAndHashCode(callSuper=false)

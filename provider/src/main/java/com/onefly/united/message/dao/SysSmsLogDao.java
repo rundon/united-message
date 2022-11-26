@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 短信日志
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark Rundon
  */
 @Mapper
 public interface SysSmsLogDao extends BaseDao<SysSmsLogEntity> {

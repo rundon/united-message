@@ -1,10 +1,3 @@
-/**
- * Copyright (c) 2019 人人开源 All rights reserved.
- *
- * https://www.renren.io
- *
- * 版权所有，侵权必究！
- */
 package com.onefly.united.notice.controller;
 
 
@@ -35,7 +28,7 @@ import java.util.Map;
 /**
 * 通知管理
 *
-* @author Mark sunlightcs@gmail.com
+* @author Mark Rundon
 */
 @RestController
 @RequestMapping("/api/notice")

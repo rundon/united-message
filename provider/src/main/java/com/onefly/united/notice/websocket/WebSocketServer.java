@@ -1,11 +1,3 @@
-/**
- * Copyright (c) 2016-2020 人人开源 All rights reserved.
- * <p>
- * https://www.renren.io
- * <p>
- * 版权所有，侵权必究！
- */
-
 package com.onefly.united.notice.websocket;
 
 import com.alibaba.fastjson.JSON;
@@ -26,7 +18,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * WebSocket服务
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark Rundon
  */
 @Slf4j
 @Component

@@ -1,10 +1,3 @@
-/**
- * Copyright (c) 2019 人人开源 All rights reserved.
- *
- * https://www.renren.io
- *
- * 版权所有，侵权必究！
- */
 package com.onefly.united.notice.dao;
 
 import com.onefly.united.common.dao.BaseDao;
@@ -14,7 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
 * 我的通知
 *
-* @author Mark sunlightcs@gmail.com
+* @author Mark Rundon
 */
 @Mapper
 public interface SysNoticeUserDao extends BaseDao<SysNoticeUserEntity> {

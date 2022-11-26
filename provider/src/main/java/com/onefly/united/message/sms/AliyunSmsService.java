@@ -1,11 +1,3 @@
-/**
- * Copyright (c) 2018 人人开源 All rights reserved.
- *
- * https://www.renren.io
- *
- * 版权所有，侵权必究！
- */
-
 package com.onefly.united.message.sms;
 
 import cn.hutool.core.map.MapUtil;
@@ -29,7 +21,7 @@ import java.util.LinkedHashMap;
 /**
  * 阿里云短信服务
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark Rundon
  */
 public class AliyunSmsService extends AbstractSmsService {
     /**

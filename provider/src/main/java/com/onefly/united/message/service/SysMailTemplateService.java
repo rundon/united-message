@@ -1,11 +1,3 @@
-/**
- * Copyright (c) 2018 人人开源 All rights reserved.
- *
- * https://www.renren.io
- *
- * 版权所有，侵权必究！
- */
-
 package com.onefly.united.message.service;
 
 import com.onefly.united.common.service.CrudService;
@@ -15,7 +7,7 @@ import com.onefly.united.message.entity.SysMailTemplateEntity;
 /**
  * 邮件模板
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark Rundon
  */
 public interface SysMailTemplateService extends CrudService<SysMailTemplateEntity, SysMailTemplateDTO> {
 
